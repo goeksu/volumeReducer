@@ -1,2 +1,1 @@
-# volumeReducer
-Etüt saatine inmemiz için bangır bangır müzik açan yurtta kalırken yazdığım bir kod. müziklerin tutulduğu usb içerisinde çalıştırınca tüm müzik dosyalarının verilen oranda sesini kısar.
+It's a code I wrote while I was staying in the dorm, which was playing blaring music for us to get down to the study hour. When run in the USB where the music is kept, it turns down the volume of all music files at the given rate.
